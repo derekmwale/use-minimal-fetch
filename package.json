@@ -1,0 +1,30 @@
+{
+  "name": "use-minimal-fetch",
+  "version": "1.0.0",
+  "description": "A lightweight useFetch hook with Axios wrapper for React apps",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "axios",
+    "hook",
+    "fetch",
+    "usefetch",
+    "api"
+  ],
+  "author": "Derek Mwale",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "axios": "^1.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
