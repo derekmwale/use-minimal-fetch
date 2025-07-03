@@ -1,6 +1,6 @@
 {
   "name": "use-minimal-fetch",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A lightweight useFetch hook with Axios wrapper for React apps",
   "main": "dist/index.js",
   "module": "dist/index.js",
