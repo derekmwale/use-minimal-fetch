@@ -1,5 +1,7 @@
 #USE MINIMAL FETCH
 
+https://www.npmjs.com/package/use-minimal-fetch
+
 A minimal, type-safe React `useFetch` hook with an Axios wrapper.
 
 ## Features
